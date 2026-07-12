@@ -6,6 +6,7 @@ class Solution {
         int start=0;
         long maxi=Long.MIN_VALUE;
         for(int i=0;i<nums.length;i++){
+            if(sum<0) sum=0;
             if(sum==0) start=i;
             sum+=nums[i];
             if(sum>maxi){
@@ -13,7 +14,6 @@ class Solution {
                 ansStart=start;
                 ansEnd=i;
             }
-            if(sum<0) sum=0;
         }
         return (int) maxi;
     }
