@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ridhi001/coding/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ridhi001/coding/tree/master/0053-maximum-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/ridhi001/coding/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ridhi001/coding/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/ridhi001/coding/tree/master/0022-generate-parentheses) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ridhi001/coding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ridhi001/coding/tree/master/1291-sequential-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ridhi001/coding/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
