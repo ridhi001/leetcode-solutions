@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ridhi001/coding/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ridhi001/coding/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/ridhi001/coding/tree/master/0071-simplify-path) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ridhi001/coding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ridhi001/coding/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
