@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ridhi001/coding/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/ridhi001/coding/tree/master/0119-pascals-triangle-ii) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/coding/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ridhi001/coding/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ridhi001/coding/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ridhi001/coding/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ridhi001/coding/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/ridhi001/coding/tree/master/0119-pascals-triangle-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ridhi001/coding/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/coding/tree/master/3620-network-recovery-pathways) |
