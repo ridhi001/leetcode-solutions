@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ridhi001/coding/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/ridhi001/coding/tree/master/0119-pascals-triangle-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/coding/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ridhi001/coding/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ridhi001/coding/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ridhi001/coding/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ridhi001/coding/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ridhi001/coding/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ridhi001/coding/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ridhi001/coding/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ridhi001/coding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
