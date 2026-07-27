@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ridhi001/coding/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1301-number-of-paths-with-max-score](https://github.com/ridhi001/coding/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/coding/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhi001/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhi001/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/coding/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ridhi001/coding/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/coding/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhi001/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
