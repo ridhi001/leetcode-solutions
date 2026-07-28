@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhi001/coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ridhi001/coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ridhi001/coding/tree/master/0242-valid-anagram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ridhi001/coding/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ridhi001/coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ridhi001/coding/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ridhi001/coding/tree/master/0070-climbing-stairs) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ridhi001/coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
