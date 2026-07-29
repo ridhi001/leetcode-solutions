@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridhi001/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ridhi001/coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ridhi001/coding/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ridhi001/coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ridhi001/coding/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -159,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridhi001/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridhi001/coding/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Simulation
 |  |
 | ------- |
