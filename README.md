@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ridhi001/coding/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ridhi001/coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/coding/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/ridhi001/coding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ridhi001/coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ridhi001/coding/tree/master/2685-count-the-number-of-complete-components) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ridhi001/coding/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ridhi001/coding/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/ridhi001/coding/tree/master/0404-sum-of-left-leaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ridhi001/coding/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ridhi001/coding/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ridhi001/coding/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ridhi001/coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/coding/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/ridhi001/coding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ridhi001/coding/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ridhi001/coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/coding/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/ridhi001/coding/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ridhi001/coding/tree/master/0543-diameter-of-binary-tree) |
 ## Simulation
 |  |
