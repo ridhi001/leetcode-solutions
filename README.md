@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ridhi001/coding/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ridhi001/coding/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ridhi001/coding/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ridhi001/coding/tree/master/0189-rotate-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ridhi001/coding/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ridhi001/coding/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Sliding Window
 |  |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ridhi001/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ridhi001/coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ridhi001/coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ridhi001/coding/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
