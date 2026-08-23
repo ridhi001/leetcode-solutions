@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ridhi001/coding/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ridhi001/coding/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/coding/tree/master/0628-maximum-product-of-three-numbers) |
+| [1927-sum-game](https://github.com/ridhi001/coding/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/coding/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridhi001/coding/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ridhi001/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ridhi001/coding/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/coding/tree/master/0257-binary-tree-paths) |
+| [1927-sum-game](https://github.com/ridhi001/coding/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ridhi001/coding/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/coding/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/ridhi001/coding/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ridhi001/coding/tree/master/0207-course-schedule) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ridhi001/coding/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
