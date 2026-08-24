@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ridhi001/coding/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/ridhi001/coding/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ridhi001/coding/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ridhi001/coding/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ridhi001/coding/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/ridhi001/coding/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ridhi001/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridhi001/coding/tree/master/0242-valid-anagram) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ridhi001/coding/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/ridhi001/coding/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ridhi001/coding/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ridhi001/coding/tree/master/0189-rotate-array) |
