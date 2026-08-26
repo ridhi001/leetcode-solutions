@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ridhi001/coding/tree/master/0257-binary-tree-paths) |
 | [1927-sum-game](https://github.com/ridhi001/coding/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/coding/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ridhi001/coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/coding/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ridhi001/coding/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridhi001/coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ridhi001/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ridhi001/coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ridhi001/coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ridhi001/coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Recursion
 |  |
 | ------- |
