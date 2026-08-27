@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ridhi001/coding/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/ridhi001/coding/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/ridhi001/coding/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ridhi001/coding/tree/master/0088-merge-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ridhi001/coding/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ridhi001/coding/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ridhi001/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridhi001/coding/tree/master/0242-valid-anagram) |
