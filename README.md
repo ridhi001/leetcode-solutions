@@ -326,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/ridhi001/coding/tree/master/1927-sum-game) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ridhi001/coding/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
