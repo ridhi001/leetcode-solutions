@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ridhi001/coding/tree/master/0022-generate-parentheses) |
+| [0077-combinations](https://github.com/ridhi001/coding/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/coding/tree/master/0257-binary-tree-paths) |
 ## Number Theory
 |  |
