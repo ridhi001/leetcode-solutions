@@ -173,6 +173,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridhi001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/ridhi001/coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ridhi001/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ridhi001/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/ridhi001/leetcode-solutions/tree/master/0071-simplify-path) |
@@ -253,6 +254,7 @@ The topic index below is generated automatically, so you can browse problems by 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ridhi001/coding/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ridhi001/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ridhi001/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ridhi001/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -359,4 +361,8 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ridhi001/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ridhi001/coding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
