@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ridhi001/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ridhi001/coding/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ridhi001/coding/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/ridhi001/coding/tree/master/0038-count-and-say) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridhi001/coding/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ridhi001/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ridhi001/coding/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ridhi001/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridhi001/coding/tree/master/0242-valid-anagram) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ridhi001/coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ridhi001/coding/tree/master/0209-minimum-size-subarray-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ridhi001/coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ridhi001/coding/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
