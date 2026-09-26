@@ -27,6 +27,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0016-3sum-closest](https://github.com/ridhi001/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridhi001/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ridhi001/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ridhi001/coding/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ridhi001/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ridhi001/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -132,6 +133,7 @@ The topic index below is generated automatically, so you can browse problems by 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ridhi001/coding/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ridhi001/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
@@ -294,6 +296,7 @@ The topic index below is generated automatically, so you can browse problems by 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ridhi001/coding/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quickselect
