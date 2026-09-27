@@ -336,6 +336,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ridhi001/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0328-odd-even-linked-list](https://github.com/ridhi001/coding/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ridhi001/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Sliding Window
 |  |
