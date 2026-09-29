@@ -49,6 +49,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ridhi001/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ridhi001/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -72,6 +73,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridhi001/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/ridhi001/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ridhi001/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ridhi001/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -136,6 +138,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0054-spiral-matrix](https://github.com/ridhi001/coding/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ridhi001/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ridhi001/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Sorting
 |  |
 | ------- |
@@ -371,6 +374,7 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ridhi001/coding/tree/master/0020-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ridhi001/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
