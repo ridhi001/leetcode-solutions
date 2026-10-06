@@ -216,6 +216,7 @@ The topic index below is generated automatically, so you can browse problems by 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ridhi001/coding/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -239,6 +240,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0053-maximum-subarray](https://github.com/ridhi001/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ridhi001/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ridhi001/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/ridhi001/coding/tree/master/0190-reverse-bits) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Enumeration
 |  |
