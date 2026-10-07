@@ -158,6 +158,7 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ridhi001/coding/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ridhi001/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ridhi001/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
