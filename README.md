@@ -345,6 +345,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0002-add-two-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ridhi001/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/ridhi001/coding/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/ridhi001/coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ridhi001/coding/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ridhi001/coding/tree/master/0328-odd-even-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ridhi001/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -360,6 +361,7 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/ridhi001/coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ridhi001/coding/tree/master/0206-reverse-linked-list) |
 ## Directed Acyclic Graph
 |  |
