@@ -189,6 +189,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0151-reverse-words-in-a-string](https://github.com/ridhi001/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ridhi001/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -236,6 +237,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0217-contains-duplicate](https://github.com/ridhi001/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -327,6 +329,7 @@ The topic index below is generated automatically, so you can browse problems by 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## DP on Trees
 |  |
