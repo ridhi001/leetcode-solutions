@@ -38,6 +38,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ridhi001/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ridhi001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ridhi001/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -192,6 +193,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0257-binary-tree-paths](https://github.com/ridhi001/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ridhi001/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -241,6 +243,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
+| [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
