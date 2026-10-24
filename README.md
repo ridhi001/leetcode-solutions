@@ -174,6 +174,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/ridhi001/coding/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ridhi001/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -196,6 +197,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2409-count-days-spent-together](https://github.com/ridhi001/coding/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ridhi001/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
