@@ -169,6 +169,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0070-climbing-stairs](https://github.com/ridhi001/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ridhi001/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ridhi001/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,6 +218,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0141-linked-list-cycle](https://github.com/ridhi001/coding/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ridhi001/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ridhi001/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ridhi001/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -241,6 +243,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridhi001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ridhi001/coding/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ridhi001/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
@@ -403,4 +406,5 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ridhi001/coding/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
