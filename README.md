@@ -170,6 +170,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0096-unique-binary-search-trees](https://github.com/ridhi001/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ridhi001/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -276,6 +277,7 @@ The topic index below is generated automatically, so you can browse problems by 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Stack
 |  |
@@ -327,6 +329,7 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridhi001/coding/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quickselect
