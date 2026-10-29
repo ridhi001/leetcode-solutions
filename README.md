@@ -173,6 +173,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0231-power-of-two](https://github.com/ridhi001/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
@@ -397,6 +398,7 @@ The topic index below is generated automatically, so you can browse problems by 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 ## Database
 |  |
@@ -413,4 +415,20 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ridhi001/coding/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
