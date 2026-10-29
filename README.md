@@ -174,6 +174,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/ridhi001/coding/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
@@ -391,6 +392,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0203-remove-linked-list-elements](https://github.com/ridhi001/coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ridhi001/coding/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ridhi001/coding/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ridhi001/coding/tree/master/0326-power-of-three) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
