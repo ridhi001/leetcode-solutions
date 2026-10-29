@@ -170,6 +170,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0096-unique-binary-search-trees](https://github.com/ridhi001/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ridhi001/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/ridhi001/coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -233,6 +234,7 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ridhi001/coding/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/ridhi001/coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -387,6 +389,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0002-add-two-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/ridhi001/coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ridhi001/coding/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ridhi001/coding/tree/master/0231-power-of-two) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
