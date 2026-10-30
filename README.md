@@ -177,6 +177,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0326-power-of-three](https://github.com/ridhi001/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridhi001/coding/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -200,6 +201,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0257-binary-tree-paths](https://github.com/ridhi001/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -336,6 +338,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridhi001/coding/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Quickselect
