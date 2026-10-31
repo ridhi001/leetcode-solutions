@@ -74,6 +74,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0096-unique-binary-search-trees](https://github.com/ridhi001/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridhi001/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ridhi001/coding/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/ridhi001/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ridhi001/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ridhi001/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -200,6 +201,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/ridhi001/coding/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
@@ -227,6 +229,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0189-rotate-array](https://github.com/ridhi001/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ridhi001/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/ridhi001/coding/tree/master/0392-is-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
