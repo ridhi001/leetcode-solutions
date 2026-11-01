@@ -153,6 +153,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0217-contains-duplicate](https://github.com/ridhi001/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ridhi001/coding/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ridhi001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -201,6 +202,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/ridhi001/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ridhi001/coding/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ridhi001/coding/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
@@ -245,6 +247,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0231-power-of-two](https://github.com/ridhi001/coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ridhi001/coding/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/ridhi001/coding/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -260,6 +263,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0242-valid-anagram](https://github.com/ridhi001/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/ridhi001/coding/tree/master/0389-find-the-difference) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
