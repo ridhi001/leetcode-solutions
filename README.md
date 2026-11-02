@@ -179,6 +179,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0326-power-of-three](https://github.com/ridhi001/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridhi001/coding/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/ridhi001/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
@@ -205,6 +206,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0389-find-the-difference](https://github.com/ridhi001/coding/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ridhi001/coding/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/ridhi001/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
@@ -345,6 +347,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ridhi001/coding/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ridhi001/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
