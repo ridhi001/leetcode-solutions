@@ -63,6 +63,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0209-minimum-size-subarray-sum](https://github.com/ridhi001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ridhi001/coding/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/ridhi001/coding/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridhi001/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -183,6 +184,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ridhi001/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/ridhi001/coding/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ridhi001/coding/tree/master/0728-self-dividing-numbers) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
