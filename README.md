@@ -62,6 +62,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ridhi001/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/ridhi001/coding/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridhi001/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -178,6 +179,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ridhi001/coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridhi001/coding/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ridhi001/coding/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ridhi001/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ridhi001/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
