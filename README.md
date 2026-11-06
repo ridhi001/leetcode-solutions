@@ -172,6 +172,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ridhi001/coding/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ridhi001/coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ridhi001/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ridhi001/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
@@ -202,6 +203,7 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridhi001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ridhi001/coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ridhi001/coding/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ridhi001/leetcode-solutions/tree/master/0022-generate-parentheses) |
@@ -267,6 +269,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0001-two-sum](https://github.com/ridhi001/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridhi001/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ridhi001/coding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ridhi001/coding/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/ridhi001/coding/tree/master/0202-happy-number) |
