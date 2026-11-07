@@ -39,6 +39,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0283-move-zeroes](https://github.com/ridhi001/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
+| [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
 | [1260-shift-2d-grid](https://github.com/ridhi001/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ridhi001/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ridhi001/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -191,6 +192,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0441-arranging-coins](https://github.com/ridhi001/coding/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ridhi001/coding/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/ridhi001/coding/tree/master/2409-count-days-spent-together) |
@@ -461,4 +463,12 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ridhi001/coding/tree/master/0292-nim-game) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
