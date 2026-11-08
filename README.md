@@ -193,6 +193,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ridhi001/coding/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
+| [1154-day-of-the-year](https://github.com/ridhi001/coding/tree/master/1154-day-of-the-year) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/ridhi001/coding/tree/master/2409-count-days-spent-together) |
@@ -221,6 +222,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0412-fizz-buzz](https://github.com/ridhi001/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
+| [1154-day-of-the-year](https://github.com/ridhi001/coding/tree/master/1154-day-of-the-year) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2409-count-days-spent-together](https://github.com/ridhi001/coding/tree/master/2409-count-days-spent-together) |
