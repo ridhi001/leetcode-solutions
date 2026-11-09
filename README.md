@@ -194,6 +194,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0728-self-dividing-numbers](https://github.com/ridhi001/coding/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
 | [1154-day-of-the-year](https://github.com/ridhi001/coding/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/ridhi001/coding/tree/master/1175-prime-arrangements) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/ridhi001/coding/tree/master/2409-count-days-spent-together) |
@@ -473,4 +474,16 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/ridhi001/coding/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/ridhi001/coding/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/ridhi001/coding/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
