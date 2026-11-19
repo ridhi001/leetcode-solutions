@@ -54,6 +54,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridhi001/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ridhi001/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ridhi001/coding/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -166,6 +167,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridhi001/coding/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ridhi001/coding/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
@@ -256,6 +258,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ridhi001/leetcode-solutions/tree/master/1927-sum-game) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ridhi001/coding/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
