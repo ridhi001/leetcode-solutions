@@ -192,6 +192,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0412-fizz-buzz](https://github.com/ridhi001/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhi001/coding/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/ridhi001/coding/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/ridhi001/coding/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/ridhi001/coding/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
