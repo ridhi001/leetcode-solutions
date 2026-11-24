@@ -56,6 +56,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ridhi001/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ridhi001/coding/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ridhi001/coding/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -203,6 +204,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [2409-count-days-spent-together](https://github.com/ridhi001/coding/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ridhi001/coding/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ridhi001/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -305,6 +307,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [1291-sequential-digits](https://github.com/ridhi001/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ridhi001/coding/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ridhi001/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
@@ -317,6 +320,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | ------- |
 | [0258-add-digits](https://github.com/ridhi001/coding/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ridhi001/coding/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -421,6 +425,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ridhi001/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ridhi001/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ridhi001/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ridhi001/coding/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
