@@ -61,6 +61,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridhi001/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/ridhi001/coding/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ridhi001/coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ridhi001/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ridhi001/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/ridhi001/coding/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -294,6 +296,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ridhi001/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ridhi001/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/ridhi001/coding/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -495,4 +498,16 @@ The topic index below is generated automatically, so you can browse problems by 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/ridhi001/coding/tree/master/1175-prime-arrangements) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ridhi001/coding/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ridhi001/coding/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ridhi001/coding/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
