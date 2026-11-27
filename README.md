@@ -37,6 +37,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0217-contains-duplicate](https://github.com/ridhi001/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ridhi001/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhi001/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhi001/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [0812-largest-triangle-area](https://github.com/ridhi001/coding/tree/master/0812-largest-triangle-area) |
@@ -291,6 +292,7 @@ The topic index below is generated automatically, so you can browse problems by 
 | [0268-missing-number](https://github.com/ridhi001/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ridhi001/coding/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ridhi001/coding/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ridhi001/coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0748-shortest-completing-word](https://github.com/ridhi001/coding/tree/master/0748-shortest-completing-word) |
 | [1331-rank-transform-of-an-array](https://github.com/ridhi001/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/ridhi001/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
